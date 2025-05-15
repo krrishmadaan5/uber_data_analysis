@@ -1,8 +1,6 @@
 # 🚗 Uber Trip Analysis – Power BI Dashboard  
 ### Uncovering Ride Trends with Data Analytics  
 
-![Dashboard Preview](https://drive.google.com/file/d/17vmym9OlVDpsqRRCJWltTKbqkQoY5TKd/view?usp=sharing)  
-
 ## 📌 Project Overview  
 This project analyzes **104,000 Uber rides** from June 2024 to uncover insights into **trip distribution**, **peak booking hours**, and **payment trends**. The goal is to optimize Uber’s operations using **Power BI and Excel**, providing a **data-driven approach** to ride-sharing analytics.  
 
